@@ -1,5 +1,6 @@
 #!/bin/bash
 
+rm -r ./build
 ./build.sh
 
 current_dir=${pwd}
